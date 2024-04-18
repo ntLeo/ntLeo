@@ -12,7 +12,7 @@ In 2023, I made a significant shift in my career and embraced the dynamic world 
 
 <div align="center">
 
-### Top Tier Skills
+### Top Tier Skills:
 
 </div>
 
