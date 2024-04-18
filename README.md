@@ -5,10 +5,10 @@
 <p align="justify">
 In 2023, I made a significant shift in my career and embraced the dynamic world of web development. My expertise lies in frontend technologies, particularly React/Next.js and their related frameworks, as well as JavaScript/TypeScript. I'm also proficient in CSS frameworks like Tailwind, SASS and Bootstrap. I'am looking forward to continuing grow and innovate in this field.
 </p>
-<br/>
-<br/>
+
 
 ---
+<br>
 
 <div align="center">
 
