@@ -1,55 +1,10 @@
-<picture width="100%">
-    <source media="(prefers-color-scheme: light)" srcset="svgs/header-light.svg" width="100%">
-    <img src="svgs/header.svg" width="100%">
-</picture>
 
-<br/>
-<br/>
 
-### <p align="center"> 🇳🇿 🇧🇷 Hi there, I'm a web developer from Brazil, currently living in New Zealand. 🇧🇷 🇳🇿</p>
+### <p align="center">Hi there my name is Vlad and I'm a web developer ✌️</p>
 
 <p align="justify">
-Although I'm a developer I also have some history with arts and design. And I believe that's what make me a strong . I can communicate with Web Design, Frontend and Backend. As I understand the pains and strenghts on all three areas.
+In 2023, I made a significant shift in my career and embraced the dynamic world of web development. My expertise lies in frontend technologies, particularly React/Next.js and their related frameworks, as well as JavaScript/TypeScript. I'm also proficient in CSS frameworks like Tailwind, SASS and Bootstrap. I'am looking forward to continuing grow and innovate in this field.
 </p>
-<p align="justify">
-I'm a Javascript / Typescript fan boy, and I love developing on React and React Frameworks. Although I usually focus on JS/TS/NodeJS etc, I do feel pretty confident with CSS Frameworks such as tailwind and SASS (Probably my artist side talking through it).
-</p>
-<br/>
-
-<div align="center" width="100%">
-
-<a target="_blank" href="https://t-tavares.github.io/portfolio/">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=darkgoldenrod">
-        <img height="25" src="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=dark%20yellow&labelColor=white">
-    </picture>
-</a>
-<a target="_blank" href="mailto:thiago.tavares.freire@gmail.com">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/email%20me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred">
-        <img height="25" src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&labelColor=white"/>
-    </picture>
-</a>
-<a target="_blank" href="https://www.instagram.com/dateuspulo/">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&logoColor=white&labelColor=maroon">
-        <img height="25" src="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&labelColor=white">
-    </picture>
-</a>
-<a target="_blank" href="tel:02102463540">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Give%20Me%20A%20Call-slateblue?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=indigo">
-        <img height="25" src="https://img.shields.io/badge/Give%20Me%20a%20Call-indigo?style=for-the-badge&logo=github%20sponsors&logoColor=indigo&labelColor=white"/>
-    </picture>
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/ttavaresf">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23004A8C">
-        <img height="25" src="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=blue"/>
-    </picture>
-</a>
-
-</div>
 <br/>
 <br/>
 
@@ -76,7 +31,7 @@ I'm a Javascript / Typescript fan boy, and I love developing on React and React 
 
 <div align="center">
 
-### Stuff I've Seen in School
+### Additional libraries and languages I'm familiar with:
 
 </div>
 
@@ -106,20 +61,9 @@ I'm a Javascript / Typescript fan boy, and I love developing on React and React 
 
 </div>
 
----
 
-<div align="center">
 
-### Things I Want to Learn/Improve at the Moment
 
-</div>
-
-<div align="center">
-
-<img align="center" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=35 height=35 >
-<img align="center" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width=35 height=35 >
-
-</div>
 
 <!-- USEFULL LINKS / RESOURCES -->
 
