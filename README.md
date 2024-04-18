@@ -1,18 +1,146 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A passionate frontend develope</h3>
+<picture width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="svgs/header-light.svg" width="100%">
+    <img src="svgs/header.svg" width="100%">
+</picture>
 
+<br/>
+<br/>
 
+### <p align="center"> 🇳🇿 🇧🇷 Hi there, I'm a web developer from Brazil, currently living in New Zealand. 🇧🇷 🇳🇿</p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vladislav-gaidamakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vladislav-gaidamakin" height="30" width="40" /></a>
+<p align="justify">
+Although I'm a developer I also have some history with arts and design. And I believe that's what make me a strong . I can communicate with Web Design, Frontend and Backend. As I understand the pains and strenghts on all three areas.
 </p>
+<p align="justify">
+I'm a Javascript / Typescript fan boy, and I love developing on React and React Frameworks. Although I usually focus on JS/TS/NodeJS etc, I do feel pretty confident with CSS Frameworks such as tailwind and SASS (Probably my artist side talking through it).
+</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntleo&label=Profile%20views&color=0e75b6&style=flat" alt="ntleo" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntleo&show_icons=true&locale=en&layout=compact" alt="ntleo" /></p>
+<div align="center" width="100%">
+
+<a target="_blank" href="https://t-tavares.github.io/portfolio/">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=darkgoldenrod">
+        <img height="25" src="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=dark%20yellow&labelColor=white">
+    </picture>
+</a>
+<a target="_blank" href="mailto:thiago.tavares.freire@gmail.com">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/email%20me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred">
+        <img height="25" src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&labelColor=white"/>
+    </picture>
+</a>
+<a target="_blank" href="https://www.instagram.com/dateuspulo/">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&logoColor=white&labelColor=maroon">
+        <img height="25" src="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&labelColor=white">
+    </picture>
+</a>
+<a target="_blank" href="tel:02102463540">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Give%20Me%20A%20Call-slateblue?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=indigo">
+        <img height="25" src="https://img.shields.io/badge/Give%20Me%20a%20Call-indigo?style=for-the-badge&logo=github%20sponsors&logoColor=indigo&labelColor=white"/>
+    </picture>
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/ttavaresf">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23004A8C">
+        <img height="25" src="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=blue"/>
+    </picture>
+</a>
+
+</div>
+<br/>
+<br/>
+
+---
+
+<div align="center">
+
+### Top Tier Skills
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=35 height=35>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### Stuff I've Seen in School
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=35 height=35>
+<img align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width=35 height=35 >
+<img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width=35 height=35 >
+<img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" width=35 height=35 >
+
+</div>
+
+---
+
+<div align="center">
+
+### Things I Want to Learn/Improve at the Moment
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width=35 height=35 >
+
+</div>
+
+<!-- USEFULL LINKS / RESOURCES -->
+
+<!-- If you're inspired by my profile readme.md, the links below helped me to build it. I hope they help you too 😁  -->
+
+<!--
+
+ARTICLES
+https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
 
 
+ACTIONS
+https://shields.io/badges
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
+ICONS
+https://github.com/marwin1991/profile-technology-icons/blob/main/README.md
+https://simpleicons.org/
+
+THEMES
+https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
+
+ -->
