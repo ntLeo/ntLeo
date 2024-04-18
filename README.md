@@ -68,7 +68,7 @@ In 2023, I made a significant shift in my career and embraced the dynamic world 
     
 ### Contact Me:
 
-<p align="left">  
+<p align="center">  
 <a href="https://linkedin.com/in/www.linkedin.com/in/vladislav-gaidamakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vladislav-gaidamakin" height="30" width="40" /></a>
 </p>
 
