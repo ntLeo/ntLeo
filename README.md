@@ -60,7 +60,9 @@ In 2023, I made a significant shift in my career and embraced the dynamic world 
 <img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" width=35 height=35 >
 
 </div>
-<br/>
+
+<br>
+
 ---
 
 
